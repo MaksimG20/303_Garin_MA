@@ -1,0 +1,7 @@
+{
+    "name": "q/q",
+   
+    "require": {
+        "gabordemooij/redbean": "^5.7"
+    }
+}
